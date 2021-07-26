@@ -15,6 +15,7 @@ body {
 
 header {
     background-color: #e2ecba;
+    width: 100%;
 }
 
 /* Style headings and logo */
@@ -37,7 +38,6 @@ h1, h2 {
 }
 
 /* Style navigation bar */
-
 #navbar {
     clear: left;
     font-size: 120%;
@@ -60,4 +60,17 @@ h1, h2 {
 
 #navbar a:hover {
     background-color: #784834;
+}
+
+/* index.html image container section */
+#image-container {
+    width: 100%;
+    height: 450px;
+}
+
+/* Main image */
+#main-image {
+    width: 100%;
+    height: 100%;
+    background: url("../images/main-image.jpg") center center / cover no-repeat;
 }
