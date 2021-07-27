@@ -26,6 +26,11 @@ h1, h2 {
     color: #454720;
 }
 
+h2 {
+    font-size: 250%;
+    margin: 40px 0 20px 0;
+}
+
 .logo-font {
     font-family: Qahiri, sans-serif;
     font-weight: 400;
@@ -74,3 +79,19 @@ h1, h2 {
     height: 100%;
     background: url("../images/main-image.jpg") center center / cover no-repeat;
 }
+
+/* About us section*/
+#about-us {
+    float: left;
+    width: 50%;
+}
+
+#about-us h2 {
+    text-align: center;
+}
+
+#about-us p {
+    margin: auto 25%;
+    line-height: 25px;
+    text-align: justify;
+} 
