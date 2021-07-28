@@ -19,7 +19,7 @@ header {
 }
 
 /* Style headings and logo */
-h1, h2 {
+h1, h2, h3 {
     font-family: Cabin, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -84,7 +84,6 @@ h2 {
 #about-us {
     float: left;
     width: 50%;
-    max-height: 450px;
 }
 
 #about-us h2 {
@@ -101,10 +100,36 @@ h2 {
     position: relative;
     max-width: 100%;
     max-height: 300px;
-    margin: 40px 25% 0;
+    margin: 40px 25% 40px;
     overflow: hidden;
 }
 
 #about-us-image img {
     max-width: 100%;
+}
+
+/* Contact section */
+#contact {
+    float: right;
+    width: 50%;
+}
+
+#contact h2 {
+    text-align: center;
+}
+
+#contact h3 {
+    text-align: center;
+    margin: 20px 0 10px;
+}
+
+#contact p {
+    text-align: justify;
+    margin: auto 25%;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+#contact span {
+    padding-left: 16px;
 }
