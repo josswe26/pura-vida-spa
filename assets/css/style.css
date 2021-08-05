@@ -92,7 +92,7 @@ h2 {
 
 #about-us p {
     margin: auto 25%;
-    line-height: 25px;
+    line-height: 20px;
     text-align: justify;
 }
 
@@ -164,4 +164,85 @@ footer {
     margin: 2px;
     padding: 6px;
     color: #e2ecba;
+}
+
+/* Style treatments.html */
+.treatment-section {
+    position: relative;
+    width: 100%;
+    height: 450px;
+}
+
+.treatment-heading {
+    position: absolute;
+    display: inline-block;
+}
+
+.treatment-heading h2 {
+    text-align: center;
+}
+
+.treatment-heading p {
+    padding: 0 25%;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.treatment-heading a {
+    position: relative;
+    display: block;
+    width: fit-content;
+    font-size: 120%;
+    margin: 30px auto;
+    padding: 10px;
+    text-decoration: none;
+    color: #e2ecba;
+    background-color: #454720;
+}
+
+.treatment-heading a:hover {
+    background-color: #784834;
+}
+
+.treatment-image {
+    position: absolute;
+    display: inline-block;
+}
+
+.right-treatment-heading {
+    left: 50%;
+    width: 675px;
+    height: 450px;
+}
+
+.left-treatment-image {
+    left: 50%;
+    margin-left: -675px;
+    width: 675px;
+    height: 450px;
+}
+
+.left-treatment-heading {
+    left: 50%;
+    margin-left: -675px;
+    width: 675px;
+    height: 450px;
+}
+
+.right-treatment-image {
+    left: 50%;
+    width: 675px;
+    height: 450px;
+}
+
+#massage-image {
+    background: url(../images/massage-image.jpg) center center / cover no-repeat;
+}
+
+#facial-image {
+    background: url(../images/facial-image.jpg) center center / cover no-repeat;
+}
+
+#pedicure-image {
+    background: url(../images/pedicure-image.jpg) center center / cover no-repeat;
 }
