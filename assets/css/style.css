@@ -28,7 +28,7 @@ h1, h2, h3 {
 
 h2 {
     font-size: 250%;
-    margin: 40px 0 20px 0;
+    margin: 40px 10px 20px;
 }
 
 .logo-font {
@@ -183,7 +183,7 @@ footer {
 }
 
 .treatment-heading p {
-    padding: 0 25%;
+    padding: 0 15%;
     line-height: 20px;
     text-align: justify;
 }
@@ -210,28 +210,25 @@ footer {
 }
 
 .right-treatment-heading {
-    left: 50%;
-    width: 675px;
+    left: 66%;
+    width: 33%;
     height: 450px;
 }
 
 .left-treatment-image {
-    left: 50%;
-    margin-left: -675px;
-    width: 675px;
+    width: 66%;
     height: 450px;
 }
 
 .left-treatment-heading {
-    left: 50%;
-    margin-left: -675px;
-    width: 675px;
+    left: 0;
+    width: 33%;
     height: 450px;
 }
 
 .right-treatment-image {
-    left: 50%;
-    width: 675px;
+    left: 33%;
+    width: 66%;
     height: 450px;
 }
 
