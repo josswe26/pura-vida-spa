@@ -183,7 +183,7 @@ footer {
 }
 
 .treatment-heading p {
-    padding: 0 15%;
+    padding: 0 10%;
     line-height: 20px;
     text-align: justify;
 }
@@ -288,3 +288,27 @@ footer {
 map {
     width: 50%;
 }
+
+/* Style medium screen sizes from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+
+    .treatment-section {
+        position: relative;
+        display: inline;
+    }
+
+    .treatment-heading {
+        position: relative;
+        width: 100%;
+        left: 0;
+        height: fit-content;
+    }
+
+    .treatment-image {
+        position: relative;
+        width: 100%;
+        left: 0;
+    }
+
+    }
