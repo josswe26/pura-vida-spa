@@ -28,7 +28,7 @@ h1, h2, h3 {
 
 h2 {
     font-size: 250%;
-    margin: 40px 10px 20px;
+    margin: 40px 0 20px 0;
 }
 
 .logo-font {
@@ -39,13 +39,14 @@ h2 {
 #main-logo {
     float: left;
     font-size: 350%;
-    margin: 20px 0 30px 30px;
+    margin: 40px 30px;
 }
 
 /* Style navigation bar */
 #navbar {
     clear: left;
     font-size: 120%;
+    bottom: 0;
 }
 
 #navbar li {
@@ -312,3 +313,29 @@ map {
     }
 
     }
+
+    /* Style medium screen sizes from 1000px wide and down */
+
+@media screen and (max-width: 1000px) {
+
+    #navbar li {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    #about-us {
+        width: 100%;
+    }
+
+    #contact {
+        width: 100%;
+    }
+
+    #form-section {
+        width: 100%;
+    }
+
+    #find-us-section {
+        width: 100%;
+    }
+}
