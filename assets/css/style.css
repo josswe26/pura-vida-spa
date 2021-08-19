@@ -339,3 +339,21 @@ map {
         width: 100%;
     }
 }
+
+    /* Style small screen sizes from 425px wide and down */
+
+    @media screen and (max-width: 425px) {
+
+        #footer-logo {
+            width: 100%;
+            text-align: center;
+            margin: 50px 0;
+            display: block;
+        }
+
+        .social-icons {
+            text-align: center;
+            width: 100%;
+            margin: 100px 0;
+        }
+    }
