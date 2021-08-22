@@ -8,14 +8,11 @@
     border: none;
 }
 
+/* Style default body */
+
 body {
     font-family: Raleway, sans-serif;
     color: #133944;
-}
-
-header {
-    background-color: #e2ecba;
-    width: 100%;
 }
 
 /* Style headings and logo */
@@ -30,6 +27,14 @@ h2 {
     font-size: 250%;
     margin: 40px 0 20px 0;
 }
+
+/* Style header */
+
+header {
+    background-color: #e2ecba;
+}
+
+/* Style logo */
 
 .logo-font {
     font-family: Qahiri, sans-serif;
@@ -70,13 +75,11 @@ h2 {
 
 /* index.html image container section */
 #image-container {
-    width: 100%;
     height: 450px;
 }
 
 /* Main image */
 #main-image {
-    width: 100%;
     height: 100%;
     background: url("../images/main-image.jpg") center center / cover no-repeat;
 }
@@ -99,8 +102,6 @@ h2 {
 
 #about-us-image {
     position: relative;
-    max-width: 100%;
-    max-height: 300px;
     margin: 40px 25% 40px;
     overflow: hidden;
 }
@@ -140,7 +141,6 @@ h2 {
 footer {
     position: relative;
     clear: both;
-    width: 100%;
     height: 200px;
     background-color: #454720;
 }
@@ -170,7 +170,6 @@ footer {
 /* Style treatments.html */
 .treatment-section {
     position: relative;
-    width: 100%;
     height: 450px;
 }
 
@@ -190,7 +189,6 @@ footer {
 }
 
 .book-button {
-    position: relative;
     display: block;
     width: fit-content;
     font-size: 120%;
@@ -207,7 +205,6 @@ footer {
 
 .treatment-image {
     position: absolute;
-    display: inline-block;
 }
 
 .right-treatment-heading {
@@ -247,7 +244,6 @@ footer {
 
 /* Style form in book-now.html */
 #book-now-image {
-    width: 100%;
     height: 450px;
     background: url("../images/book-now-image.jpg") center center / cover no-repeat;
 }
@@ -277,6 +273,8 @@ footer {
     margin-bottom: 15px;
 }
 
+/* Style find us section */
+
 #find-us-section {
     float: right;
     width: 50%;
@@ -286,8 +284,11 @@ footer {
     text-align: center;
 }
 
-map {
-    width: 50%;
+/* Style map */
+
+#map iframe{
+    width: 100%;
+    height: 450px;
 }
 
 /* Style medium screen sizes from 1200px wide and down */

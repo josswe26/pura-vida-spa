@@ -13,11 +13,13 @@
 </head>
 
 <body>
+
     <header>
+        <!-- Main logo -->
         <a href="index.html">
             <h1 id="main-logo" class="logo-font">Pura Vida Spa</h1>
-            </div>
         </a>
+        <!-- Navigation bar -->
         <nav id="navbar">
             <ul>
                 <li>
@@ -32,11 +34,15 @@
             </ul>
         </nav>
     </header>
-    <section>
+
+    <!-- Book Now image -->
+    <div>
         <div id="book-now-image"></div>
-    </section>
+    </div>
+
+    <!-- Book Now form section -->
     <section id="form-section">
-        <form action="" method="POST">
+        <form action="https://formdump.codeinstitute.net" method="POST">
             <h2>Book Now</h2>
             <div>
                 <label for="fname">First Name</label>
@@ -67,15 +73,20 @@
             </div>
             <div>
                 <label class="form-label" for="date">Date</label>
-                <input class="form-input" class="block" id="date" type="date" name="booking-date" required>
+                <input class="form-input" id="date" type="date" name="booking-date" required>
             </div>
             <input class="book-button" type="submit" value="Book">
         </form>
     </section>
+
+    <!-- Find us section -->
     <section  id="find-us-section">
             <h2>Find Us</h2>
-            <iframe id="map" src="https://bit.ly/3Am9tY2" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <div id="map">
+                <iframe src="https://bit.ly/3Am9tY2" allowfullscreen="" loading="lazy"></iframe>
+            </div>
     </section>
+
     <footer>
         <div>
             <h2 id="footer-logo" class="logo-font">Pura Vida Spa</h2>
@@ -95,6 +106,7 @@
             </ul>
         </div>
     </footer>
+    
 </body>
 
 </html>
