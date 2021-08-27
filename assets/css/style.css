@@ -29,7 +29,7 @@ h1, h2, h3 {
 
 h2 {
     font-size: 250%;
-    margin: 40px 0 20px 0;
+    margin: 40px 10px;
 }
 
 /* Style header */
@@ -99,14 +99,14 @@ header {
 }
 
 #about-us p {
-    margin: auto 25%;
+    margin: auto 10%;
     line-height: 20px;
     text-align: justify;
 }
 
 #about-us-image {
     position: relative;
-    margin: 40px 25% 40px;
+    margin: 40px 10% 0;
     overflow: hidden;
 }
 
@@ -131,7 +131,7 @@ header {
 
 #contact p {
     text-align: justify;
-    margin: auto 25%;
+    margin: auto 10%;
     line-height: 25px;
     margin-bottom: 20px;
 }
