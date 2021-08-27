@@ -42,52 +42,54 @@
             <div id="book-now-image"></div>
         </div>
 
-        <!-- Book Now form section -->
-        <section id="form-section">
-            <form action="https://formdump.codeinstitute.net" method="POST">
-                <h2>Book Now</h2>
-                <div>
-                    <label for="fname">First Name</label>
-                    <input class="form-input" id="fname" type="text" name="first_name" required>
-                </div>
-                <div>
-                    <label for="lname">Last Name</label>
-                    <input class="form-input" id="lname" type="text" name="last_name" required>
-                </div>
-                <div>
-                    <label for="email">Email Address</label>
-                    <input class="form-input" id="email" type="email" name="email_address" required>
-                </div>
-                <div id="choose-treatment">
-                    <p>Choose your treatment:</p>
+        <div class="section-wrapper">
+            <!-- Book Now form section -->
+            <section id="form-section">
+                <form action="https://formdump.codeinstitute.net" method="POST">
+                    <h2>Book Now</h2>
                     <div>
-                        <input id="massage" type="radio" name="treatment" value="massage" required>
-                        <label for="massage">Massage</label>
+                        <label for="fname">First Name</label>
+                        <input class="form-input" id="fname" type="text" name="first_name" required>
                     </div>
                     <div>
-                        <input id="facial" type="radio" name="treatment" value="facial">
-                        <label for="facial">Facial Treatment</label>
+                        <label for="lname">Last Name</label>
+                        <input class="form-input" id="lname" type="text" name="last_name" required>
                     </div>
                     <div>
-                        <input id="manicure_pedicure" type="radio" name="treatment" value="manicure_pedicure">
-                        <label for="manicure_pedicure">Manicure & Pedicure</label>
+                        <label for="email">Email Address</label>
+                        <input class="form-input" id="email" type="email" name="email_address" required>
                     </div>
-                </div>
-                <div>
-                    <label class="form-label" for="date">Date</label>
-                    <input class="form-input" id="date" type="date" name="booking-date" required>
-                </div>
-                <input class="book-button" type="submit" value="Book">
-            </form>
-        </section>
+                    <div id="choose-treatment">
+                        <p>Choose your treatment:</p>
+                        <div>
+                            <input id="massage" type="radio" name="treatment" value="massage" required>
+                            <label for="massage">Massage</label>
+                        </div>
+                        <div>
+                            <input id="facial" type="radio" name="treatment" value="facial">
+                            <label for="facial">Facial Treatment</label>
+                        </div>
+                        <div>
+                            <input id="manicure_pedicure" type="radio" name="treatment" value="manicure_pedicure">
+                            <label for="manicure_pedicure">Manicure & Pedicure</label>
+                        </div>
+                    </div>
+                    <div>
+                        <label class="form-label" for="date">Date</label>
+                        <input class="form-input" id="date" type="date" name="booking-date" required>
+                    </div>
+                    <input class="book-button" type="submit" value="Book">
+                </form>
+            </section>
 
-        <!-- Find us section -->
-        <section  id="find-us-section">
-                <h2>Find Us</h2>
-                <div id="map">
-                    <iframe src="https://bit.ly/3Am9tY2" allowfullscreen="" loading="lazy"></iframe>
-                </div>
-        </section>
+            <!-- Find us section -->
+            <section  id="find-us-section">
+                    <h2>Find Us</h2>
+                    <div id="map">
+                        <iframe src="https://bit.ly/3Am9tY2" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+            </section>
+        </div>
     </div>
 
     <footer>
