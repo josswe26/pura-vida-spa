@@ -9,10 +9,14 @@
 }
 
 /* Style default body */
-
 body {
     font-family: Raleway, sans-serif;
     color: #133944;
+}
+
+/* Style the page content to fill the screen for the footer to stick to the bottom */
+#content-wrapper {
+    min-height: calc(100vh - 200px);
 }
 
 /* Style headings and logo */
@@ -139,6 +143,7 @@ header {
 /* Style footer */
 
 footer {
+    overflow: hidden;
     position: relative;
     clear: both;
     height: 200px;
