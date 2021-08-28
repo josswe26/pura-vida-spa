@@ -50,6 +50,58 @@ Destop Version | Mobile Version
 
 ## 2. Features
 
+### 2.1. General
+
+* Responsive design across all device sizes.
+
+* Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
+
+* Header
+    
+    - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
+
+    - The business logo functions as a link to the landing page.
+
+    - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
+
+* Footer
+
+    - The footer includes a smaller version of the logo and link to the business social media channels.
+
+### 2.2. Landing Page
+
+* Main Image
+
+    - The main image is design to attract the customer's attention and represents the nature surrounding the business.
+
+* About Us Section
+
+    - Contains a text with information about the business as well as an eye-catching image.
+
+* Contact Section
+
+    - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+
+### 2.3 Treatments Page
+
+* Treatment Sections
+
+    - The treatment section contains an image to illustrate the respective treatment and a short text with an explanation of the treatment.
+
+    - A link to the book now page has been added to each section for easy navigation.
+
+    - Each treatment section is fully responsive and easy to replicate in case more treatments need to be added by the business.
+
+### 2.4 Book Now Page
+
+* Book Now Form
+
+    - The form allows the customer to book the desire treatment on a specific date directly from the business website.
+
+* Find Us Section
+
+    - This section displays a Google map of the business' geographical location. This allows the customers to easily access the business' location from their devices.
+
 ## 3. Technologies Used
 
 ### 3.1. Languages Used
@@ -60,22 +112,31 @@ Destop Version | Mobile Version
 
 * [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
     - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
+
 * [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
-     - Font Awesome was used throughout all pages to add icons in order to create a better visual experiience for UX purposes.
+     - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
+
 * [TinyPNG](https://tinypng.com/)
     - TinyPNG was used to reduce the file size of the images for the website.
+
 * [GitPod](https://gitpod.io/ "Link to GitPod homepage")
-     - GitPod was used for writing code, commiting, and then pushing to GitHub.
+     - GitPod was used for writing code, committing, and then pushing to GitHub.
+
 * [GitHub](https://github.com/ "Link to GitHub")
      - GitHub was used to store the project after pushing.
+
 * [Balsamiq](https://balsamiq.com/ "Link to Balsamiq homepage")
      - Balsamiq was used to create the wireframes during the design phase of the project.
+
 * [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage")
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+
 * [Responsive Design Checker](https://www.responsivedesignchecker.com/)
     - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
+
 * [W3C Markup Validator](https://validator.w3.org/)
     - W3C Markup Validator was used to validate the HTML code.
+
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validator was used to validate the CSS code.
 
