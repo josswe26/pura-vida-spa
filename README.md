@@ -1,6 +1,6 @@
 # Pura Vida Spa
 
-![Pura Vida Spa mockup images]()
+![Pura Vida Spa mockup images](assets/readme_files/mockup-image.png)
 
 Pura Vida Spa is a fictional spa located in the heart of the Costa Rican rainforest. Pura Vida Spa offers a variety of beauty treatments and its location allows you to enjoy their services while surrounded by the beautiful Costa Rican nature.
 
@@ -44,9 +44,9 @@ The main font being used in the site is Raleway, with Sans Serif as the fallback
 
 Destop Version | Mobile Version
 --- | ---
-[Index](wireframes/desktop-index.png) | [Index](wireframes/mobile-index.png)
-[Treatments](wireframes/desktop-treatments.png) | [Treatments](wireframes/mobile-treatments.png)
-[Book Now](wireframes/desktop-book-now.png) | [Book Now](wireframes/mobile-book-now.png)
+[Index](assets/wireframes/desktop-index.png) | [Index](assets/wireframes/mobile-index.png)
+[Treatments](assets/wireframes/desktop-treatments.png) | [Treatments](assets/wireframes/mobile-treatments.png)
+[Book Now](assets/wireframes/desktop-book-now.png) | [Book Now](assets/wireframes/mobile-book-now.png)
 
 ## 2. Features
 
