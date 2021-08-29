@@ -114,29 +114,32 @@ Destop Version | Mobile Version
 
 ### 3.2. Frameworks, Libraries and Programs Used
 
-* [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
+* [Google Fonts](https://fonts.google.com/)
     - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
 
-* [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
+* [Font Awesome](https://fontawesome.com/)
      - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
 
 * [TinyPNG](https://tinypng.com/)
     - TinyPNG was used to reduce the file size of the images for the website.
 
-* [GitPod](https://gitpod.io/ "Link to GitPod homepage")
+* [GitPod](https://gitpod.io/)
      - GitPod was used for writing code, committing, and then pushing to GitHub.
 
-* [GitHub](https://github.com/ "Link to GitHub")
+* [GitHub](https://github.com/)
      - GitHub was used to store the project after pushing.
 
-* [Balsamiq](https://balsamiq.com/ "Link to Balsamiq homepage")
+* [Balsamiq](https://balsamiq.com/)
      - Balsamiq was used to create the wireframes during the design phase of the project.
 
-* [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage")
+* [Am I Responsive?](http://ami.responsivedesign.is/#)
     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 
 * [Responsive Design Checker](https://www.responsivedesignchecker.com/)
     - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
+
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+    - Chrome DevTools was used during development process for code review and to test responsiveness.
 
 * [W3C Markup Validator](https://validator.w3.org/)
     - W3C Markup Validator was used to validate the HTML code.
@@ -177,12 +180,117 @@ Destop Version | Mobile Version
 
     - The book now page contains a find us section with a Google map of the business' geographical location.
 
-### 4.2. Automated Testing
 
-### 4.3. Manual Testing
+### 4.2. Code Validation
+
+* The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
+
+    - W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this. 
+    
+    - Another error found by W3C Markup Validator was concerning a percentage value used inside the iframe tag to declare the width property on the Book Now page. The width and height properties for the iframe were declared inside the CSS file instead.
+
+    -  W3C CSS Validator found no errors or warnings on my CSS. 
+
+### 4.3. Automated Testing
+
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+    - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+
+* Responsiveness
+    
+    - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
+
+    - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
+    
+    - Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
+
+### 4.4. Manual Testing
+
+* Browser Compatibility
+
+    - The website has been tested on the following browsers:
+
+        - **Goolgle Chrome**
+        
+        No appearance, responsiveness nor functionality issues.
+
+        - **Safari**
+        
+        No appearance, responsiveness nor functionality issues.
+
+        - **Mozilla Firefox**
+        
+        There was and issue with the appearance of the book buttons on the treatments page expanding all the width. This issue was corrected by changing the width property value from "fit-content" to "max-content".
+        
+        No responsiveness nor functionality issues.
+
+        - **Microsoft Edge**
+        
+        No appearance, responsiveness nor functionality issues.
+
+* Device compatibility
+
+    - The website has been tested on multiple devices, including:
+
+        - **MacBook Pro 15"**
+
+        No appearance, responsiveness nor functionality issues.
+
+        - **Dell Latitude 5300**
+
+        No appearance, responsiveness nor functionality issues.
+
+        - **iPad Pro 12.9"**
+
+        No appearance, responsiveness nor functionality issues.
+
+        - **iPad Pro 10.5"**
+
+        No appearance, responsiveness nor functionality issues.
+
+        - **iPhone XR**
+        
+        No appearance, responsiveness nor functionality issues.
+
+        - **iPhone 7**
+
+        No appearance, responsiveness nor functionality issues.
+
+* Common Elements Testing
+
+    - All Pages
+        
+        - **Header**
+
+            - Clicking on the main logo will bring the customer back to the landing page.
+
+        - **Navigation Bar**
+
+            - Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+
+            - Clicking on the navigation bar's links will bring the customer to the specified page.
+        
+        - **Footer**
+        
+            - Clicking on the social media links will open the specific website on a new tab.
+
+    - Treatments Page
+
+        - Hovering on the book button link on each treatment section will trigger hover effect, highlighting the button for the customer.
+
+        - Clicking on the book button link on each treatment section will bring the customer to the book now page.
+
+    - Book Now Page
+
+        - When filling out the book now form, the customer is required to complete all fields before submitting.
+        
+        - Hovering over the book button will trigger hover effect, highlighting the button for the customer.
+
+        - Clicking and dragging on the map in the find us section will move the area shown on the map. 
+        
+        - Clicking the plus and minus buttons changes the zoom of the map.
 
 ## 5. Deployment
 
 ## 6. Credits 
-
-
