@@ -106,6 +106,11 @@ Destop Version | Mobile Version
 
     - This section displays a Google map of the business' geographical location. This allows the customers to easily find the location from their devices.
 
+### 2.5 404 Error Page
+
+*  This single page is being shown in the case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
+
+
 ## 3. Technologies Used
 
 ### 3.1. Languages Used
@@ -189,7 +194,7 @@ Destop Version | Mobile Version
     
     - Another error found by W3C Markup Validator was concerning a percentage value used inside the iframe tag to declare the width property on the Book Now page. The width and height properties for the iframe were declared inside the CSS file instead.
 
-    -  W3C CSS Validator found no errors or warnings on my CSS. 
+    -  W3C CSS Validator found no errors or warnings on my CSS.
 
 ### 4.3. Tools Testing
 
@@ -290,6 +295,14 @@ Destop Version | Mobile Version
         - Clicking and dragging on the map in the find us section will move the area shown on the map. 
         
         - Clicking the plus and minus buttons changes the zoom of the map.
+
+    - 404 Error Page
+
+        - Entering an incorrect address into the address bar will bring the customer back to the 404 error page.
+
+        - Hovering on the homepage link will trigger hover effect, increasing the font size of the link's text.
+
+        - Clicking on the homepage link will bring the customer back to the landing page.
 
 ## 5. Deployment
 
