@@ -86,7 +86,7 @@ Destop Version | Mobile Version
 
     - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
 
-### 2.3 Treatments Page
+### 2.3. Treatments Page
 
 * Treatment Sections
 
@@ -96,7 +96,7 @@ Destop Version | Mobile Version
 
     - Each treatment section is fully responsive and easy to replicate in case more treatments need to be added by the business.
 
-### 2.4 Book Now Page
+### 2.4. Book Now Page
 
 * Book Now Form
 
@@ -106,7 +106,7 @@ Destop Version | Mobile Version
 
     - This section displays a Google map of the business' geographical location. This allows the customers to easily find the location from their devices.
 
-### 2.5 404 Error Page
+### 2.5. 404 Error Page
 
 *  This single page is being shown in the case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
@@ -305,5 +305,23 @@ Destop Version | Mobile Version
         - Clicking on the homepage link will bring the customer back to the landing page.
 
 ## 5. Deployment
+
+* This website was developed using [GitPod](https://www.gitpod.io/), which was then committed and pushed to GitHub using the GitPod terminal.
+
+### 5.1 GitHub Pages
+
+* Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
+
+    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
+
+    2. At the top of the Repository, locate the Settings button on the menu.
+
+        - Alternatively click [here](https://raw.githubusercontent.com/) for a GIF demostration of the process.
+
+    3. Scroll down the Settings page until you locate the Pages section.
+
+    4. Under Source, click the dropdown called None and select Master Branch.
+
+    5. The page will refresh automatically and generate a link to your website.
 
 ## 6. Credits 
