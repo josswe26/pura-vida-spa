@@ -35,6 +35,7 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 * As a customer, I want to easily find the business' location.
 
 ### 1.3 Color Scheme
+![Color scheme image](assets/readme-files/color-scheme.png)
 
 The colors used in the site are two different tones of green (#e2ecba and #454720), a brown color (#784834) for the hover effects and a blue green color (#133944) for the main text. These colors are chosen to represent the rain forest surrounding the business and are used in order to communicate a sense of calm and relaxation.
 
