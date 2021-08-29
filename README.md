@@ -10,13 +10,17 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
 ## 1. User Experience (UX)
 
-### 1.1. User Stories
+### 1.1. Project Goals
 
-* As a business owner, I want the website to have a calming design, appealing to the customers.
+* The website should have a calming and relaxing design, appealing to the customers.
 
-* As a business owner, I want to present the treatments offered to attract more customers.
+* Present the treatments offered and information about them in order to attract more customers.
 
-* As a business owner, I want customers to be able to book a treatment once they have decided to visit us.
+* Provide the customer with useful information tha can facilitate future interaction with the business.
+
+* Offer the customers the opportunity to book a treatment once they have decided to visit the business.
+
+### 1.2. User Stories
 
 * As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
 
@@ -30,15 +34,15 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
 * As a customer, I want to easily find the business' location.
 
-### 1.2. Color Scheme
+### 1.3 Color Scheme
 
 The colors used in the site are two different tones of green (#e2ecba and #454720), a brown color (#784834) for the hover effects and a blue green color (#133944) for the main text. These colors are chosen to represent the rain forest surrounding the business and are used in order to communicate a sense of calm and relaxation.
 
-### 1.3. Typography
+### 1.4. Typography
 
 The main font being used in the site is Raleway, with Sans Serif as the fallback font in case Ralway is not being imported correctly. Cabin is being used for the headings, as suggested by Google Fonts for appropriate pairings with Raleway, with Sand Serif as fallback. The Qahiri font has been chosen for the site logo with Sans Serif used again as fallback.
 
-### 1.4. Wireframes
+### 1.5. Wireframes
 
 [Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
@@ -66,13 +70,13 @@ Destop Version | Mobile Version
 
 * Footer
 
-    - The footer includes a smaller version of the logo and link to the business social media channels.
+    - The footer includes a smaller version of the logo and link to the business' social media channels.
 
 ### 2.2. Landing Page
 
 * Main Image
 
-    - The main image is design to attract the customer's attention and represents the nature surrounding the business.
+    - The main image is designed to attract the customer's attention and represents the nature surrounding the business.
 
 * About Us Section
 
@@ -96,11 +100,11 @@ Destop Version | Mobile Version
 
 * Book Now Form
 
-    - The form allows the customer to book the desire treatment on a specific date directly from the business website.
+    - The form allows the customer to book the desired treatment on a specific date directly from the business' website.
 
 * Find Us Section
 
-    - This section displays a Google map of the business' geographical location. This allows the customers to easily access the business' location from their devices.
+    - This section displays a Google map of the business' geographical location. This allows the customers to easily find the location from their devices.
 
 ## 3. Technologies Used
 
@@ -141,6 +145,41 @@ Destop Version | Mobile Version
     - W3C CSS Validator was used to validate the CSS code.
 
 ## 4. Testing
+
+### 4.1. Testing User Stories
+
+* As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
+
+     - The website offers a intuitive structure for the customers to navigate and find the information they are looking for.
+
+    - The navigation bar is clearly presented in all pages for the customers to find with ease and it is easily navigable.
+
+
+* As a customer, I want to be able to read more about the treatments available.
+
+    - The treatments page presents all treatments available, each on their own section.
+
+    - Each treatment section contains useful information about the respective treatment.
+
+* As a customer, I want to easily find the contact information for the business.
+
+    - The landing page contains a clear contact section with all necessary business' contacts
+
+* As a customer, I want to find social media links to the business.
+
+    - The footer provides link to the business' social media channels.
+
+* As a customer, I want to be able to book a treatment directly from the website.
+
+    - The book now page provides a book now form for the customer to book and schedule their next treatment.
+
+* As a customer, I want to easily find the business' location.
+
+    - The book now page contains a find us section with a Google map of the business' geographical location.
+
+### 4.2. Automated Testing
+
+### 4.3. Manual Testing
 
 ## 5. Deployment
 
