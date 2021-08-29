@@ -117,7 +117,7 @@ Destop Version | Mobile Version
 ### 2.5. 404 Error Page
 ![404 error page image](assets/readme-files/404-error-page.png)
 
-*  This single page is being shown in the case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
+*  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
 
 ## 3. Technologies Used
