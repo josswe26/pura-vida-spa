@@ -206,7 +206,29 @@ Destop Version | Mobile Version
 
     -  W3C CSS Validator found no errors or warnings on my CSS.
 
-### 4.3. Tools Testing
+### 4.3. Accessibility
+
+* Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+
+* Lighthouse reports
+
+    - **Landing Page**
+    
+    ![Lighthouse report for landing page image](assets/readme-files/lighthouse-report-index.png)
+
+    - **Treatments Page**
+    
+    ![Lighthouse report for treatmenst page image](assets/readme-files/lighthouse-report-treatments.png)
+
+    - **Book Now Page**
+    
+    ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
+
+    - **404 Error Page**
+
+    ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
+
+### 4.4. Tools Testing
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
@@ -220,7 +242,7 @@ Destop Version | Mobile Version
     
     - Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
 
-### 4.4. Manual Testing
+### 4.5. Manual Testing
 
 * Browser Compatibility
 
