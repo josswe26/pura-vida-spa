@@ -191,7 +191,7 @@ Destop Version | Mobile Version
 
     -  W3C CSS Validator found no errors or warnings on my CSS. 
 
-### 4.3. Automated Testing
+### 4.3. Tools Testing
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 

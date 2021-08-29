@@ -318,6 +318,42 @@ footer > p {
     height: 450px;
 }
 
+/* Style 404 error page */
+
+#background-404 {
+    background: url("../images/404-background.jpg") center bottom / cover no-repeat;
+    height: 100vh;
+}
+
+#text-404 {
+    position: absolute;
+    width: 100%;
+    top: 10vh;
+    background-color: rgba(255, 255, 255, 0.3);
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#text-404 h1 {
+    margin: 40px 10px;
+    font-size: 350%;
+}
+
+#text-404 p {
+    line-height: 25px;
+    font-size: 125%;
+}
+
+#text-404 a {
+    text-decoration: none;
+    color: #454720;
+    
+}
+
+#text-404 a:hover {
+    font-size: 120%;
+}
+
 /* Style medium screen sizes from 1200px wide and down */
 
 @media screen and (max-width: 1200px) {
