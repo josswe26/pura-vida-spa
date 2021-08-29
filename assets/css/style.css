@@ -213,7 +213,7 @@ footer > p {
 
 .book-button {
     display: block;
-    width: fit-content;
+    width: max-content;
     font-size: 120%;
     margin: 30px auto;
     padding: 10px;
