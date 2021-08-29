@@ -1,6 +1,6 @@
 # Pura Vida Spa
 
-![Pura Vida Spa mockup images](assets/readme_files/mockup-image.png)
+![Pura Vida Spa mockup images](assets/readme-files/mockup-image.png)
 
 Pura Vida Spa is a fictional spa located in the heart of the Costa Rican rainforest. Pura Vida Spa offers a variety of beauty treatments and its location allows you to enjoy their services while surrounded by the beautiful Costa Rican nature.
 
@@ -60,7 +60,8 @@ Destop Version | Mobile Version
 
 * Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
 
-* Header
+* **Header**
+![Header image](assets/readme-files/header.png)
     
     - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
 
@@ -68,27 +69,32 @@ Destop Version | Mobile Version
 
     - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
-* Footer
+* **Footer**
+![Footer image](assets/readme-files/footer.png)
 
     - The footer includes a smaller version of the logo and link to the business' social media channels.
 
 ### 2.2. Landing Page
 
-* Main Image
+* **Main Image**
+![Main image](assets/readme-files/main-image.png)
 
     - The main image is designed to attract the customer's attention and represents the nature surrounding the business.
 
-* About Us Section
+* **About Us Section**
+![About us section image](assets/readme-files/about-us.png)
 
     - Contains a text with information about the business as well as an eye-catching image.
 
-* Contact Section
+* **Contact Section**
+![Contact section image](assets/readme-files/contact.png)
 
     - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
 
 ### 2.3. Treatments Page
 
-* Treatment Sections
+* **Treatment Sections**
+![Treatment section image](assets/readme-files/treatment-section-example.png)
 
     - The treatment section contains an image to illustrate the respective treatment and a short text with an explanation of the treatment.
 
@@ -98,15 +104,18 @@ Destop Version | Mobile Version
 
 ### 2.4. Book Now Page
 
-* Book Now Form
+* **Book Now Form**
+![Book now form image](assets/readme-files/book-now-form.png)
 
     - The form allows the customer to book the desired treatment on a specific date directly from the business' website.
 
-* Find Us Section
+* **Find Us Section**
+![Find us section image](assets/readme-files/find-us.png)
 
     - This section displays a Google map of the business' geographical location. This allows the customers to easily find the location from their devices.
 
 ### 2.5. 404 Error Page
+![404 error page image](assets/readme-files/404-error-page.png)
 
 *  This single page is being shown in the case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
