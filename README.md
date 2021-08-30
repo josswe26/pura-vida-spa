@@ -213,19 +213,15 @@ Destop Version | Mobile Version
 * Lighthouse reports
 
     - **Landing Page**
-    
     ![Lighthouse report for landing page image](assets/readme-files/lighthouse-report-index.png)
 
     - **Treatments Page**
-    
     ![Lighthouse report for treatmenst page image](assets/readme-files/lighthouse-report-treatments.png)
 
     - **Book Now Page**
-    
     ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
 
     - **404 Error Page**
-
     ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
 
 ### 4.4. Tools Testing
@@ -340,7 +336,7 @@ Destop Version | Mobile Version
 
 * This website was developed using [GitPod](https://www.gitpod.io/), which was then committed and pushed to GitHub using the GitPod terminal.
 
-### 5.1 GitHub Pages
+### 5.1. GitHub Pages
 
 * Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
 
@@ -357,3 +353,30 @@ Destop Version | Mobile Version
     5. The page will refresh automatically and generate a link to your website.
 
 ## 6. Credits 
+
+### 6.1. Content
+
+- All content was written by the developer.
+
+### 6.2. Media
+
+* [Pexels](https://www.pexels.com/)
+
+    - Main image: "Waterfalls in the Middle of Green Trees" by Austin Tsai.
+    - 404 Error Page image: Taken by Artem Beliaikin.
+
+* [Unsplash](https://unsplash.com/)
+
+    - About Us image: "Pristine water lily" by Jay Castor.
+    - Massage image: "Beautiful Woman Getting Stones Massage in Spa Salon" by Engin Akyurt.
+    - Facial image: Taken by Raphael Lovaski.
+    - Pedicure image: "Warm bath before treatment" by Rune Enstad.
+    - Book Now image: Taken by Firos Nv.
+
+### 6.3. Code
+
+* [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
+
+
+
+
