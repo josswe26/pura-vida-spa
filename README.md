@@ -4,9 +4,9 @@
 
 Pura Vida Spa is a fictional spa located in the heart of the Costa Rican rainforest. Pura Vida Spa offers a variety of beauty treatments and its location allows you to enjoy their services while surrounded by the beautiful Costa Rican nature.
 
-The purpose of this website is to promote Pura Vida Spa and to provide information to the customers about the spa, its treatments and contact options. The website targets an audience of new customers looking for the treatments being offered as well as recurrent users looking to schedule a new appointments or find out about their new offerings.
+The purpose of this website is to promote Pura Vida Spa and to provide information to the customers about the spa, its treatments and contact options. The website targets an audience of new customers looking for the treatments being offered as well as returning customers looking to schedule a new appointments or find out about their new offerings.
 
-Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
+Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/).
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
 * Present the treatments offered and information about them in order to attract more customers.
 
-* Provide the customer with useful information tha can facilitate future interaction with the business.
+* Provide the customer with useful information that can facilitate future interaction with the business.
 
 * Offer the customers the opportunity to book a treatment once they have decided to visit the business.
 
@@ -75,17 +75,17 @@ The colors used in the site are two different tones of green (#e2ecba and #45472
 
 ### Typography
 
-The main font being used in the site is Raleway, with Sans Serif as the fallback font in case Ralway is not being imported correctly. Cabin is being used for the headings, as suggested by Google Fonts for appropriate pairings with Raleway, with Sand Serif as fallback. The Qahiri font has been chosen for the site logo with Sans Serif used again as fallback.
+The main font used in the site is Raleway, with Sans Serif as the fallback font in case Ralway is not being imported correctly. Cabin is used for the headings, as suggested by Google Fonts for appropriate pairings with Raleway, with Sans Serif as fallback. The Qahiri font has been chosen for the site logo with Sans Serif used again as fallback.
 
 ### Wireframes
 
 [Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
-Desktop Version | Mobile Version
---- | ---
-![Desktop index wireframe image](assets/wireframes/desktop-index.png) | ![Mobile index wireframe image](assets/wireframes/mobile-index.png)
-![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
-![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
+Page | Desktop Version | Mobile Version
+--- | --- | ---
+Index | ![Desktop index wireframe image](assets/wireframes/desktop-index.png) | ![Mobile index wireframe image](assets/wireframes/mobile-index.png)
+Treatments | ![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
+Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
 
 [Back to top ⇧](#pura-vida-spa)
 
@@ -383,12 +383,12 @@ Desktop Version | Mobile Version
 
 ## Finished Product
 
-Desktop version | Mobile version
---- | ---
-![Desktop index page image](assets/readme-files/desktop-index.png) | ![Mobile index page image](assets/readme-files/mobile-index.png)
-![Desktop treatments page image](assets/readme-files/desktop-treatments.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
-![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
-![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
+Page | Desktop version | Mobile version
+--- | --- | ---
+Index | ![Desktop index page image](assets/readme-files/desktop-index.png) | ![Mobile index page image](assets/readme-files/mobile-index.png)
+Treatments | ![Desktop treatments page image](assets/readme-files/desktop-treatments.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
+Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
+404 Error | ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
 
 [Back to top ⇧](#pura-vida-spa)
 
