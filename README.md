@@ -47,11 +47,11 @@ The main font being used in the site is Raleway, with Sans Serif as the fallback
 
 [Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
-Destop Version | Mobile Version
+Desktop Version | Mobile Version
 --- | ---
-[Index](assets/wireframes/desktop-index.png) | [Index](assets/wireframes/mobile-index.png)
-[Treatments](assets/wireframes/desktop-treatments.png) | [Treatments](assets/wireframes/mobile-treatments.png)
-[Book Now](assets/wireframes/desktop-book-now.png) | [Book Now](assets/wireframes/mobile-book-now.png)
+![Desktop index wireframe image](assets/wireframes/desktop-index.png) | ![Mobile index wireframe image](assets/wireframes/mobile-index.png)
+![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
+![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
 
 ## 2. Features
 
@@ -332,11 +332,20 @@ Destop Version | Mobile Version
 
         - Clicking on the homepage link will bring the customer back to the landing page.
 
-## 5. Deployment
+## 5. Finished Product
+
+Desktop version | Mobile version
+--- | ---
+![Desktop index page image](assets/readme-files/desktop-index.png) | ![Mobile index page image](assets/readme-files/mobile-index.png)
+![Desktop treatments page image](assets/readme-files/desktop-treatments.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
+![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
+![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
+
+## 6. Deployment
 
 * This website was developed using [GitPod](https://www.gitpod.io/), which was then committed and pushed to GitHub using the GitPod terminal.
 
-### 5.1. GitHub Pages
+### 6.1. GitHub Pages
 
 * Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
 
@@ -352,13 +361,13 @@ Destop Version | Mobile Version
 
     5. The page will refresh automatically and generate a link to your website.
 
-## 6. Credits 
+## 7. Credits 
 
-### 6.1. Content
+### 7.1. Content
 
 - All content was written by the developer.
 
-### 6.2. Media
+### 7.2. Media
 
 * [Pexels](https://www.pexels.com/)
 
@@ -373,10 +382,16 @@ Destop Version | Mobile Version
     - Pedicure image: "Warm bath before treatment" by Rune Enstad.
     - Book Now image: Taken by Firos Nv.
 
-### 6.3. Code
+### 7.3. Code
 
 * [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
+## 8. Acknowledgements
 
+* My partner, for her unconditional love, help and support in all aspects of life to make possible for me to work on this project.
 
+* My family, for their valuable opinions and and critic during the design and development process.
 
+* My tutor, Marcel, for his invaluable feedback and guidance.
+
+* Code Institute and its amazing Slack community for their support and providing me with the necessary knowledge to complete this project.
