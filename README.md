@@ -10,67 +10,48 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
 ## Table of Contents
 
-1. [User Experience (UX)](#1.-User-Experience-(UX))
+1. [User Experience (UX)](#user-experience-ux)
+    1. [Project Goals](#project-goals)
+    2. [User Stories](#user-stories)
+    3. [Color Scheme](#color-scheme)
+    4. [Typography](#typography)
 
-    1.1. [Project Goals](#1.1.-Project-Goals)
+2. [Features](#features)
+    1. [General](#general)
+    2. [Landing Page](#landing-page)
+    3. [Treatments Page](#treatments-page)
+    4. [Book Now Page](#book-now-page)
+    5. [404 Error Page](#404-error-page)
 
-    1.2. [User Stories](#1.2.-User-Stories)
+ 3. [Technologies Used](#technologies-used)
 
-    1.3 [Color Scheme](#1.3.-Color-Scheme)
+    1. [Languages Used](#languages-used)
+    2. [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 
-    1.4 [Typography](#1.4.-Typography)
+4. [Testing](#testing)
+    1. [Testing User Stories](#testing-user-stories)
+    2. [Code Validation](#code-validation)
+    3. [Accessibility](#accessibility)
+    4. [Tools Testing](#tools-Testing)
+    5. [Manual Testing](#manual-testing)
 
-2. [Features](#2.-Features)
+5. [Finished Product](#finished-product)
 
-    2.1. [General](#2.1.-General)
+6. [Deployment](#deployment)
+    1. [GitHub Pages](#github-pages)
 
-    2.2. [Landing Page](#2.2.-Landing-Page)
+7. [Credits](#credits)
+    1. [Content](#content)
+    2. [Media](#media)
+    3. [Code](#code)
 
-    2.3 [Treatments Page](#2.3.-Treatments-Page)
-
-    2.4. [Book Now Page](#2.4.-Book-Now-Page)
-
-    2.5. [404 Error Page](#2.5.-404-Error-Page)
-
- 3. [Technologies Used](#3.-Technologies-Used)
-
-    3.1. [Languages Used](#3.1.-Languages-Used)
-
-    3.2. [Frameworks, Libraries and Programs Used](#3.2.-Frameworks,-Libraries-and-Programs-Used)
-
-4. [Testing](#4.-Testing)
-
-    4.1. [Testing User Stories](#4.1.-Testing-User-Stories)
-
-    4.2. [Code Validation](#4.2.-Code-Validation)
-
-    4.3. [Accessibility](#4.3.-Accessibility)
-
-    4.4. [Tools Testing](#4.4.-Tools-Testing)
-
-    4.5. [Manual Testing](#4.5.-Manual-Testing)
-
-5. [Finished Product](#5.-Finished-Product)
-
-6. [Deployment](#6.-Deployment)
-
-    6.1. [GitHub Pages](6.1.-GitHub-Pages)
-
-7. [Credits](#7.-Credits)
-
-    7.1. [Content](#7.1.-Content)
-
-    7.2. [Media](#7.2.-Media)
-
-    7.3. [Code](#7.3.-Code)
-
-8. [Acknowledgements](#8.-Acknowledgements)
+8. [Acknowledgements](#acknowledgements)
 
 ***
 
-## 1. User Experience (UX)
+## User Experience (UX)
 
-### 1.1. Project Goals
+### Project Goals
 
 * The website should have a calming and relaxing design, appealing to the customers.
 
@@ -80,7 +61,7 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
 * Offer the customers the opportunity to book a treatment once they have decided to visit the business.
 
-### 1.2. User Stories
+### User Stories
 
 * As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
 
@@ -94,16 +75,16 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
 * As a customer, I want to easily find the business' location.
 
-### 1.3. Color Scheme
+### Color Scheme
 ![Color scheme image](assets/readme-files/color-scheme.png)
 
 The colors used in the site are two different tones of green (#e2ecba and #454720), a brown color (#784834) for the hover effects and a blue green color (#133944) for the main text. These colors are chosen to represent the rain forest surrounding the business and are used in order to communicate a sense of calm and relaxation.
 
-### 1.4. Typography
+### Typography
 
 The main font being used in the site is Raleway, with Sans Serif as the fallback font in case Ralway is not being imported correctly. Cabin is being used for the headings, as suggested by Google Fonts for appropriate pairings with Raleway, with Sand Serif as fallback. The Qahiri font has been chosen for the site logo with Sans Serif used again as fallback.
 
-### 1.5. Wireframes
+### Wireframes
 
 [Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
 
@@ -113,12 +94,12 @@ Desktop Version | Mobile Version
 ![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
 ![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
 
 
-## 2. Features
+## Features
 
-### 2.1. General
+### General
 
 * Responsive design across all device sizes.
 
@@ -138,7 +119,7 @@ Desktop Version | Mobile Version
 
     - The footer includes a smaller version of the logo and link to the business' social media channels.
 
-### 2.2. Landing Page
+### Landing Page
 
 * **Main Image**
 ![Main image](assets/readme-files/main-image.png)
@@ -155,7 +136,7 @@ Desktop Version | Mobile Version
 
     - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
 
-### 2.3. Treatments Page
+### Treatments Page
 
 * **Treatment Sections**
 ![Treatment section image](assets/readme-files/treatment-section-example.png)
@@ -166,7 +147,7 @@ Desktop Version | Mobile Version
 
     - Each treatment section is fully responsive and easy to replicate in case more treatments need to be added by the business.
 
-### 2.4. Book Now Page
+### Book Now Page
 
 * **Book Now Form**
 ![Book now form image](assets/readme-files/book-now-form.png)
@@ -178,21 +159,21 @@ Desktop Version | Mobile Version
 
     - This section displays a Google map of the business' geographical location. This allows the customers to easily find the location from their devices.
 
-### 2.5. 404 Error Page
+### 404 Error Page
 ![404 error page image](assets/readme-files/404-error-page.png)
 
 *  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
 
 
-## 3. Technologies Used
+## Technologies Used
 
-### 3.1. Languages Used
+### Languages Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-### 3.2. Frameworks, Libraries and Programs Used
+### Frameworks, Libraries and Programs Used
 
 * [Google Fonts](https://fonts.google.com/)
     - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
@@ -227,12 +208,12 @@ Desktop Version | Mobile Version
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validator was used to validate the CSS code.
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
 
 
-## 4. Testing
+## Testing
 
-### 4.1. Testing User Stories
+### Testing User Stories
 
 * As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
 
@@ -264,7 +245,7 @@ Desktop Version | Mobile Version
     - The book now page contains a find us section with a Google map of the business' geographical location.
 
 
-### 4.2. Code Validation
+### Code Validation
 
 * The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
 
@@ -274,7 +255,7 @@ Desktop Version | Mobile Version
 
     -  W3C CSS Validator found no errors or warnings on my CSS.
 
-### 4.3. Accessibility
+### Accessibility
 
 * Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
 
@@ -296,7 +277,7 @@ Desktop Version | Mobile Version
 
     ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
 
-### 4.4. Tools Testing
+### Tools Testing
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
@@ -310,7 +291,7 @@ Desktop Version | Mobile Version
     
     - Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
 
-### 4.5. Manual Testing
+### Manual Testing
 
 * Browser Compatibility
 
@@ -404,10 +385,10 @@ Desktop Version | Mobile Version
 
         - Clicking on the homepage link will bring the customer back to the landing page.
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
 
 
-## 5. Finished Product
+## Finished Product
 
 Desktop version | Mobile version
 --- | ---
@@ -416,14 +397,14 @@ Desktop version | Mobile version
 ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
 ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
 
 
-## 6. Deployment
+## Deployment
 
 * This website was developed using [GitPod](https://www.gitpod.io/), which was then committed and pushed to GitHub using the GitPod terminal.
 
-### 6.1. GitHub Pages
+### GitHub Pages
 
 * Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
 
@@ -439,16 +420,16 @@ Desktop version | Mobile version
 
     5. The page will refresh automatically and generate a link to your website.
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
 
 
-## 7. Credits 
+## Credits 
 
-### 7.1. Content
+### Content
 
 - All content was written by the developer.
 
-### 7.2. Media
+### Media
 
 * [Pexels](https://www.pexels.com/)
 
@@ -463,14 +444,14 @@ Desktop version | Mobile version
     - Pedicure image: "Warm bath before treatment" by Rune Enstad.
     - Book Now image: Taken by Firos Nv.
 
-### 7.3. Code
+### Code
 
 * [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
 
 
-## 8. Acknowledgements
+## Acknowledgements
 
 * My partner, for her unconditional love, help and support in all aspects of life to make possible for me to work on this project.
 
@@ -480,4 +461,4 @@ Desktop version | Mobile version
 
 * Code Institute and its amazing Slack community for their support and providing me with the necessary knowledge to complete this project.
 
-[Back to top ⇧](#Pura-Vida-Spa)
+[Back to top ⇧](#pura-vida-spa)
