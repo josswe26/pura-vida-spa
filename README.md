@@ -8,6 +8,66 @@ The purpose of this website is to promote Pura Vida Spa and to provide informati
 
 Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
+## Table of Contents
+
+1. [User Experience (UX)](#1.-User-Experience-(UX))
+
+    1.1. [Project Goals](#1.1.-Project-Goals)
+
+    1.2. [User Stories](#1.2.-User-Stories)
+
+    1.3 [Color Scheme](#1.3.-Color-Scheme)
+
+    1.4 [Typography](#1.4.-Typography)
+
+2. [Features](#2.-Features)
+
+    2.1. [General](#2.1.-General)
+
+    2.2. [Landing Page](#2.2.-Landing-Page)
+
+    2.3 [Treatments Page](#2.3.-Treatments-Page)
+
+    2.4. [Book Now Page](#2.4.-Book-Now-Page)
+
+    2.5. [404 Error Page](#2.5.-404-Error-Page)
+
+ 3. [Technologies Used](#3.-Technologies-Used)
+
+    3.1. [Languages Used](#3.1.-Languages-Used)
+
+    3.2. [Frameworks, Libraries and Programs Used](#3.2.-Frameworks,-Libraries-and-Programs-Used)
+
+4. [Testing](#4.-Testing)
+
+    4.1. [Testing User Stories](#4.1.-Testing-User-Stories)
+
+    4.2. [Code Validation](#4.2.-Code-Validation)
+
+    4.3. [Accessibility](#4.3.-Accessibility)
+
+    4.4. [Tools Testing](#4.4.-Tools-Testing)
+
+    4.5. [Manual Testing](#4.5.-Manual-Testing)
+
+5. [Finished Product](#5.-Finished-Product)
+
+6. [Deployment](#6.-Deployment)
+
+    6.1. [GitHub Pages](6.1.-GitHub-Pages)
+
+7. [Credits](#7.-Credits)
+
+    7.1. [Content](#7.1.-Content)
+
+    7.2. [Media](#7.2.-Media)
+
+    7.3. [Code](#7.3.-Code)
+
+8. [Acknowledgements](#8.-Acknowledgements)
+
+***
+
 ## 1. User Experience (UX)
 
 ### 1.1. Project Goals
@@ -34,7 +94,7 @@ Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/)
 
 * As a customer, I want to easily find the business' location.
 
-### 1.3 Color Scheme
+### 1.3. Color Scheme
 ![Color scheme image](assets/readme-files/color-scheme.png)
 
 The colors used in the site are two different tones of green (#e2ecba and #454720), a brown color (#784834) for the hover effects and a blue green color (#133944) for the main text. These colors are chosen to represent the rain forest surrounding the business and are used in order to communicate a sense of calm and relaxation.
@@ -52,6 +112,9 @@ Desktop Version | Mobile Version
 ![Desktop index wireframe image](assets/wireframes/desktop-index.png) | ![Mobile index wireframe image](assets/wireframes/mobile-index.png)
 ![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
 ![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
+
+[Back to top ⇧](#Pura-Vida-Spa)
+
 
 ## 2. Features
 
@@ -120,6 +183,8 @@ Desktop Version | Mobile Version
 
 *  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
+[Back to top ⇧](#Pura-Vida-Spa)
+
 
 ## 3. Technologies Used
 
@@ -161,6 +226,9 @@ Desktop Version | Mobile Version
 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validator was used to validate the CSS code.
+
+[Back to top ⇧](#Pura-Vida-Spa)
+
 
 ## 4. Testing
 
@@ -213,15 +281,19 @@ Desktop Version | Mobile Version
 * Lighthouse reports
 
     - **Landing Page**
+
     ![Lighthouse report for landing page image](assets/readme-files/lighthouse-report-index.png)
 
     - **Treatments Page**
+
     ![Lighthouse report for treatmenst page image](assets/readme-files/lighthouse-report-treatments.png)
 
     - **Book Now Page**
+
     ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
 
     - **404 Error Page**
+
     ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
 
 ### 4.4. Tools Testing
@@ -332,6 +404,9 @@ Desktop Version | Mobile Version
 
         - Clicking on the homepage link will bring the customer back to the landing page.
 
+[Back to top ⇧](#Pura-Vida-Spa)
+
+
 ## 5. Finished Product
 
 Desktop version | Mobile version
@@ -340,6 +415,9 @@ Desktop version | Mobile version
 ![Desktop treatments page image](assets/readme-files/desktop-treatments.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
 ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
 ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
+
+[Back to top ⇧](#Pura-Vida-Spa)
+
 
 ## 6. Deployment
 
@@ -360,6 +438,9 @@ Desktop version | Mobile version
     4. Under Source, click the dropdown called None and select Master Branch.
 
     5. The page will refresh automatically and generate a link to your website.
+
+[Back to top ⇧](#Pura-Vida-Spa)
+
 
 ## 7. Credits 
 
@@ -386,6 +467,9 @@ Desktop version | Mobile version
 
 * [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
+[Back to top ⇧](#Pura-Vida-Spa)
+
+
 ## 8. Acknowledgements
 
 * My partner, for her unconditional love, help and support in all aspects of life to make possible for me to work on this project.
@@ -395,3 +479,5 @@ Desktop version | Mobile version
 * My tutor, Marcel, for his invaluable feedback and guidance.
 
 * Code Institute and its amazing Slack community for their support and providing me with the necessary knowledge to complete this project.
+
+[Back to top ⇧](#Pura-Vida-Spa)
